@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1369833602 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1369835183 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (another copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1369842117 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (3rd copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1369887978 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (4th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1370439751 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (5th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1370486867 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (10th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1370488635 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (11th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370489342 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (13th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370493502 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (15th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370499267 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (17th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370522586 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (19th copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370539886 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (21st copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370544707 source:/home/evilgenius/Computer/Code/KU Zombie/Time2PlayTheGame/MainGame (22nd copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370577913 source:/home/evilgenius/Computer/Code/KU Zombie/XXXX_FINAL/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370599468 source:/home/evilgenius/Computer/Code/KU Zombie/XXXX_FINAL (copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370669564 source:/home/evilgenius/Computer/Code/KU Zombie/THE_GAME/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370678309 source:/home/evilgenius/Computer/Code/KU Zombie/THE_GAME (copy)/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1370681186 source:/home/evilgenius/Computer/Code/KU Zombie/KHELNE!!!!/main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1373528608 source:e:\bhuntu ko treat\khelne!!!!\main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\ramesh\desktop\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1373528608 source:c:\users\ramesh\desktop\codeblocks\khelne!!!!\main.cpp
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<math.h>
+
